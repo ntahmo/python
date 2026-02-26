@@ -64,9 +64,11 @@ Participants are encouraged to engage actively during the learning module. They 
 
 ||Monday|Wednesday|Friday|
 |---|---|---|---|
-|Week 1|Live Learning Session 1 (Introduction, Data Types, Error)|Live Learning Session 2 (Functions, Strings, Converting Types, Input)|Work Period 1|
-|Week 2|Live Learning Session 3 (Control Flow) | Live Learning Session 4 (Reading/Writing, Object Oriented Programming)|Work Period 2|
-|Week 3|Live Learning Session 5 (`numPy`)|
+|Week 1||Live Learning Session 1 (Introduction, Data Types, Error)|Work Period 1|
+|Week 2|Live Learning Session 2 (Functions, Strings, Converting Types, Input)| Live Learning Session 3 (Control Flow) |Work Period 2|
+|Week 3|Live Learning Session 4 (Reading/Writing, Object Oriented Programming)| Live Learning Session 5 (`numPy`)| Work Period 3
+
+__NOTE: LIVE LEARNING SESSION 4 WILL TAKE PLACE FROM 2:00PM-4:30PM__
 
 While Testing, `pandas`, Visualization, and APIs are not covered in this course, you are encouraged to explore the slides at your own pace to deepen your understanding.
  
