@@ -48,6 +48,7 @@ There are two assignments (one per week) in this module:
 * Learning Support Staff: 
   * **Anjali Shrivastava**: anju_shrivastava@yahoo.com
   * **Julia Gallucci**: julia.gallucci@mail.utoronto.ca
+  * **Dmytro Bonislavskyi**: dmytro.bonislavskyi@gmail.com
 
 ## Delivery of the Learning Module
 
